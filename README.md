@@ -1,4 +1,4 @@
 # Test_openSW
 # Test
 
-<google>
+Link: [Google][googlelink] [googlelink]: https://google.com "Go google"
